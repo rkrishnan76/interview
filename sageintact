@@ -3,3 +3,5 @@
 3.  linked list/stack/queue question with the data structure.   2,4,6,4,8,9st 2,6,4,6,8,9
      Implement the queue that would get nth highest 
      4. aaabcd a string is a substring of another string
+     
+   5.  https://jsonmock.hackerrank.com/api/movies/search/?Title=spiderman&page=2
